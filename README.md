@@ -1,6 +1,6 @@
 # Hi, I'm Hasan 👋 👨‍💻
 
-I'm the <b>Co-Founder</b> of <a href="https://dashboard.seebeez.com" target="_blank">Seebeez</a> and the <b>Tech Lead</b> at <a href="https://thrive.com.bd" target="_blank">Thrive Edtech</a>. With over 7 years of working experience in SaaS platforms and Cloud deployments, I specialize in cloud based software architecture design and DevOps. 
+I'm the <b>Co-Founder</b> of <a href="https://dashboard.seebeez.com" target="_blank">Seebeez</a>. With over 7 years of working experience in SaaS platforms and Cloud deployments, I specialize in cloud based software architecture design and DevOps. 
 
 ## Technical Skills & Competences
 
