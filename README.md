@@ -6,6 +6,10 @@ I'm the <b>Co-Founder</b> of <a href="https://dashboard.seebeez.com" target="_bl
 
 I have worked with
 
+### Design & Mockup
+- Adobe Photoshop, Illustrator
+- Adobe XD, Figma
+
 ### Web Frameworks
 - Laravel, Symphony
 - Node.js, Electron.js, Next.js, Nuxt.js, AdonisJS, MeteorJS
