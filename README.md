@@ -1,6 +1,6 @@
 # Hi, I'm Lotus 👋 👨‍💻
 
-I'm the <b>Co-Founder</b> of <a href="https://dashboard.seebeez.com" target="_blank">Seebeez</a>. With over 7 years of working experience in SaaS platforms and Cloud deployments, I specialize in cloud based software architecture design and DevOps. 
+With over 7 years of working experience in SaaS platforms and Cloud deployments, I specialize in cloud based software architecture design and DevOps. 
 
 ## Technical Skills & Competences
 
