@@ -6,6 +6,25 @@ With over 8 years of working experience in SaaS platforms and Cloud deployments,
 
 I have worked with
 
+### Cloud
+- Setting up cloud, Baremetal, VPS
+- AWS, GCP, IBM Cloud, Digitalocean, Linode, Vultr
+- Apache2, Nginx, Traefik, Reverse proxy
+- Server management, Troubleshooting
+
+### Serverless
+- Google Cloud Functions, Amazon Lambda, Cloudflare Workers, Vercel(Zeit)
+- Google Cloud Run, OpenFaaS
+
+### DevOps
+- Provisioning: Terraform, Ansible
+- CI/CD: Jenkins, TravisCI, DroneCI, RancherCI, Codefresh
+- Virtualization: Docker, Docker Machine, Podman, ContainerD
+- Orchestration Management: Kubernetes, Rancher 1.6 and 2.x HA
+- Kubernetes Tools: Helm, Helmfile, Autoscaling (CA, HPA, VPA), many more
+- Monitoring: NewRelic, Prometheous, Grafana, Datadog, Cloudwatch, Fluentd, LogDNA, Sentry
+- Network: Load Balancer, NGINX Ingress, Istio Mesh, Traefik, CertManager LetsEncrypt
+
 ### Web Frameworks
 - Laravel, Symphony, Django
 - Node.js, Electron.js, ExpressJS, Next.js, Nuxt.js, AdonisJS, MeteorJS
@@ -25,25 +44,6 @@ I have worked with
 
 ### Payment Gateway
 - Stripe, Paypal, Tap
-
-### Cloud
-- Setting up cloud, Baremetal, VPS
-- AWS, GCP, IBM Cloud, Digitalocean, Linode, Vultr
-- Apache2, Nginx, Traefik, Reverse proxy
-- Server management, Troubleshooting
-
-### Serverless
-- Google Cloud Functions, Amazon Lambda, Cloudflare Workers, Vercel(Zeit)
-- Google Cloud Run, OpenFaaS
-
-### DevOps
-- Provisioning: Terraform, Ansible
-- CI/CD: Jenkins, TravisCI, DroneCI, RancherCI, Codefresh
-- Virtualization: Docker, Docker Machine, Podman, ContainerD
-- Orchestration Management: Kubernetes, Rancher 1.6 and 2.x HA
-- Kubernetes Tools: Helm, Helmfile, Autoscaling (CA, HPA, VPA), many more
-- Monitoring: NewRelic, Prometheous, Grafana, Datadog, Cloudwatch, Fluentd, LogDNA, Sentry
-- Network: Load Balancer, NGINX Ingress, Istio Mesh, Traefik, CertManager LetsEncrypt
 
 ### Blockchain
 - Solana Rust, Sui Move, Cardano
