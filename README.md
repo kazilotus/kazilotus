@@ -1,6 +1,6 @@
 # Hi, I'm Lotus 👋 👨‍💻
 
-With over 7 years of working experience in SaaS platforms and Cloud deployments, I specialize in cloud based software architecture design and DevOps. 
+With over 8 years of working experience in SaaS platforms and Cloud deployments, I specialize in cloud based software architecture design and DevOps. 
 
 ## Technical Skills & Competences
 
@@ -11,29 +11,29 @@ I have worked with
 - Adobe XD, Figma
 
 ### Web Frameworks
-- Laravel, Symphony
-- Node.js, Electron.js, Next.js, Nuxt.js, AdonisJS, MeteorJS
+- Laravel, Symphony, Django
+- Node.js, Electron.js, ExpressJS, Next.js, Nuxt.js, AdonisJS, MeteorJS
 
 ### Web Frontend
 - ReactJS, Redux, AntDesign, VueJS, Vuex, Vuetify
 - Vanilla, jQuery, Bootstrap, Semantic UI, Tailwind CSS
 
 ### Mobile Development
-- Android, React Native
+- Android, React Native, Expo
 
 ### Database
-- MySQL, MongoDB, RedisCache
+- AWS RDS (Aurora, MySQL, PostgreSQL), MySQL, PostgreSQL, MongoDB, RedisCache
 
 ### Queue
-- Kafka, RabbitMQ, RedisStream, Google PubSub, Amazon SQS
+- Amazon SQS, Google PubSub, RabbitMQ, Kafka, RedisStream
 
 ### Payment Gateway
-- Stripe, Paypal
+- Stripe, Paypal, Tap
 
 ### Cloud
 - Setting up cloud, Baremetal, VPS
-- GCP, AWS, IBM Cloud, Digitalocean, Linode, Vultr
-- Apache2, Nginx, Reverse proxy
+- AWS, GCP, IBM Cloud, Digitalocean, Linode, Vultr
+- Apache2, Nginx, Traefik, Reverse proxy
 - Server management, Troubleshooting
 
 ### Serverless
@@ -43,10 +43,14 @@ I have worked with
 ### DevOps
 - Provisioning: Terraform, Ansible
 - CI/CD: Jenkins, TravisCI, DroneCI, RancherCI, Codefresh
-- Virtualization: Docker, Docker Machine, Kubernetes, Autoscaling
-- Orchestration Management: Rancher 1.6 and 2.x HA
-- Monitoring: Prometheous, Grafana
-- Network: Load Balancer, NGINX Ingress, Istio Mesh, Traefik, CertManager LetsEncrypt 
+- Virtualization: Docker, Docker Machine, Podman, ContainerD
+- Orchestration Management: Kubernetes, Rancher 1.6 and 2.x HA
+- Kubernetes Tools: Helm, Helmfile, Autoscaling (CA, HPA, VPA), many more
+- Monitoring: NewRelic, Prometheous, Grafana, Datadog, Cloudwatch, Fluentd, LogDNA, Sentry
+- Network: Load Balancer, NGINX Ingress, Istio Mesh, Traefik, CertManager LetsEncrypt
+
+Blockchain
+- Solana Rust, Sui Move, Cardano
 
 ### 3rd Party App & Integrations
 - Dropbox, Google Drive, OneDrive
@@ -61,6 +65,7 @@ I have worked with
 - DigitalOcean Node Recycle
 - Facebook Chat backup without read reciept
 - Instagram Follow & Unfollow
+- Telegram Bot Auto text in set time intervals
 - Snapchat send generated image to maintain streak
 - Spotify bot to play based on Messenger text
 - Reverse Engineer and decrypt Spotify, Deezer, Anghami, Gaana
