@@ -6,10 +6,6 @@ With over 8 years of working experience in SaaS platforms and Cloud deployments,
 
 I have worked with
 
-### Design & Mockup
-- Adobe Photoshop, Illustrator
-- Adobe XD, Figma
-
 ### Web Frameworks
 - Laravel, Symphony, Django
 - Node.js, Electron.js, ExpressJS, Next.js, Nuxt.js, AdonisJS, MeteorJS
@@ -49,8 +45,12 @@ I have worked with
 - Monitoring: NewRelic, Prometheous, Grafana, Datadog, Cloudwatch, Fluentd, LogDNA, Sentry
 - Network: Load Balancer, NGINX Ingress, Istio Mesh, Traefik, CertManager LetsEncrypt
 
-Blockchain
+### Blockchain
 - Solana Rust, Sui Move, Cardano
+
+### Design & Mockup
+- Adobe Photoshop, Illustrator
+- Adobe XD, Figma
 
 ### 3rd Party App & Integrations
 - Dropbox, Google Drive, OneDrive
