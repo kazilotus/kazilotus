@@ -1,6 +1,6 @@
 # Hello, I'm M. Hasan 👋 👨‍💻
 
-With more than 8 years of professional experience in SaaS platforms and Cloud deployments, I specialize in cloud-based software architecture design and DevOps. I have a wealth of experience ranging from setting up cloud environments and building sophisticated microservices architecture, serverless systems, to leveraging blockchain technologies and orchestrating complex multicloud Kubernetes clusters.
+With more than 9 years of professional experience in SaaS platforms and Cloud deployments, I specialize in cloud-based software architecture design and DevOps. I have a wealth of experience ranging from setting up cloud environments and building sophisticated microservices architecture, serverless systems, to leveraging blockchain technologies and orchestrating complex multicloud Kubernetes clusters.
 
 ## 🔧 Technical Skills & Competencies
 
